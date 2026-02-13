@@ -1,4 +1,4 @@
-# Retail Sales Analytics Dashboard
+# Retail Sales Analytics 
 
 
 
@@ -227,3 +227,4 @@ This project showcases an end-to-end retail analytics pipeline transforming raw 
 It highlights strong analytical, technical, and business intelligence skills aligned with Data Analyst and Business Intelligence roles.
 
 <!--  -->
+
